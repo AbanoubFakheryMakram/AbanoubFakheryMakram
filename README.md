@@ -9,10 +9,9 @@
 
 I'm a motivated CS developer who loves learning and exploring new technologies. My focus is on mobile development, particularly using Flutter and Dart.
 
-- 🌱 I’m currently learning GraphQL and Clean Architecture
 - 💬 Ask me about anything related to mobile development
+- 👨‍💻 Check out my portfolio at https://abanoub-fakhery.jimdosite.com/ to see some of the projects I've worked on.
 - ⚡ Fun fact: I'm a coffee enthusiast and I love trying out new coffee shops.
-- 👨‍💻 Check out my portfolio at [https://abanoub-fakhery.jimdosite.com/] to see some of the projects I've worked on.
  
 ### Connect with Me :
 
