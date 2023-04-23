@@ -22,13 +22,6 @@
 <a href="[https://www.linkedin.com/in/abanoub-fakhry-553a67166/]" target="_blank"><img src="https://img.shields.io/badge/Abanoub%20Fakhry-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutterlogoColor=4788F2)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=DartlogoColor=4788F2)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=FFFFFF)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=DE33A6)&nbsp;
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-05122A?style=flat&logo=restfull-apis&logoColor=DE33A6)&nbsp;
 
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
@@ -38,6 +31,19 @@
   <img alt="Provider" src="https://img.shields.io/badge/-Provider-03A9F4?style=flat-square" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="Agile" src="https://img.shields.io/badge/-Agile-546E7A?style=flat-square" />
+  <img alt="State management" src="https://img.shields.io/badge/-State%20management-1D1D1D?style=flat-square" />
+  <img alt="Responsive design" src="https://img.shields.io/badge/-Responsive%20design-795548?style=flat-square" />
+  <img alt="Unit testing" src="https://img.shields.io/badge/-Unit%20testing-9C27B0?style=flat-square" />
+  <img alt="Integration testing" src="https://img.shields.io/badge/-Integration%20testing-4CAF50?style=flat-square" />
+  <img alt="Push notifications" src="https://img.shields.io/badge/-Push%20notifications-607D8B?style=flat-square" />
+  <img alt="Localization" src="https://img.shields.io/badge/-Localization-795548?style=flat-square" />
+  <img alt="In-app purchases" src="https://img.shields.io/badge/-In--app%20purchases-2196F3?style=flat-square" />
+  <img alt="Custom UI design" src="https://img.shields.io/badge/-Custom%20UI%20design-1E88E5?style=flat-square" />
+  <img alt="Animations" src="https://img.shields.io/badge/-Animations-FF9800?style=flat-square" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square" />
+  <img alt="Clean architecture" src="https://img.shields.io/badge/-Clean%20architecture-212121?style=flat-square" />
+  <img alt="SOLID principles" src="https://img.shields.io/badge/-SOLID%20principles-212121?style=flat-square" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-1976D2?style=flat-square" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
