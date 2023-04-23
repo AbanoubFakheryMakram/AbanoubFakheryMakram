@@ -1,23 +1,23 @@
 <!-- Profile introduction -->
-<img align="left" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> &nbsp;
+<img align="left" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Mobile+Developer;Motivated+CS+Developer" alt="Typing SVG" /></a>
 </p> 
 
-<p align="center">
-# Hi, I'm Abanoub Fakhry! 👋
-## Flutter Mobile Developer at Link Development
+<p> &nbsp; # Hi, I'm Abanoub Fakhry! 👋
+ &nbsp; ## Flutter Mobile Developer at Link Development
 
-I'm a motivated CS developer who loves learning and exploring new technologies. My focus is on mobile development, particularly using Flutter and Dart.
+ &nbsp; I'm a motivated CS developer who loves learning and exploring new technologies. My focus is on mobile development, particularly using Flutter and Dart.
 
 - 🌱 I’m currently learning GraphQL and Clean Architecture
 - 💬 Ask me about anything related to mobile development
 - ⚡ Fun fact: I'm a coffee enthusiast and I love trying out new coffee shops.
 - 👨‍💻 Check out my portfolio at [https://abanoub-fakhery.jimdosite.com/] to see some of the projects I've worked on.
-</p> 
 
+ </p>
+ 
 ### Connect with Me :
 
 <a href="[https://www.linkedin.com/in/abanoub-fakhry-553a67166/]" target="_blank"><img src="https://img.shields.io/badge/Abanoub%20Fakhry-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
