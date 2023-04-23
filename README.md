@@ -6,6 +6,7 @@
  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Mobile+Developer;Motivated+CS+Developer" alt="Typing SVG" /></a>
 </p> 
 
+<p align="center">
 # Hi, I'm Abanoub Fakhry! 👋
 ## Flutter Mobile Developer at Link Development
 
@@ -15,7 +16,7 @@ I'm a motivated CS developer who loves learning and exploring new technologies. 
 - 💬 Ask me about anything related to mobile development
 - ⚡ Fun fact: I'm a coffee enthusiast and I love trying out new coffee shops.
 - 👨‍💻 Check out my portfolio at [https://abanoub-fakhery.jimdosite.com/] to see some of the projects I've worked on.
-
+</p> 
 
 ### Connect with Me :
 
