@@ -1,5 +1,5 @@
 <!-- Profile introduction -->
-<img align="left" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="left" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> &nbsp;
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
