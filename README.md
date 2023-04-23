@@ -34,7 +34,6 @@
   <img alt="State management" src="https://img.shields.io/badge/-State%20management-1D1D1D?style=flat-square" />
   <img alt="Responsive design" src="https://img.shields.io/badge/-Responsive%20design-795548?style=flat-square" />
   <img alt="Unit testing" src="https://img.shields.io/badge/-Unit%20testing-9C27B0?style=flat-square" />
-  <img alt="Integration testing" src="https://img.shields.io/badge/-Integration%20testing-4CAF50?style=flat-square" />
   <img alt="Push notifications" src="https://img.shields.io/badge/-Push%20notifications-607D8B?style=flat-square" />
   <img alt="Localization" src="https://img.shields.io/badge/-Localization-795548?style=flat-square" />
   <img alt="In-app purchases" src="https://img.shields.io/badge/-In--app%20purchases-2196F3?style=flat-square" />
@@ -46,8 +45,8 @@
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-1976D2?style=flat-square" />
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubFakheryMakram&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=AbanoubFakheryMakram&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=AbanoubFakheryMakram&style=for-the-badge">
 </a>
