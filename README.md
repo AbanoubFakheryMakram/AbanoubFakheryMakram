@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Mobile+Developer;Motivated+CS+Developer)](https://git.io/typing-svg"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Mobile+Developer;Motivated+CS+Developer" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Flutter Mobile Developer at Link Development
