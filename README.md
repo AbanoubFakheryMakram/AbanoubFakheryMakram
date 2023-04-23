@@ -27,6 +27,21 @@ I'm a skilled mobile app developer with experience in Flutter, a popular mobile 
 
 ---
 
+Skills
+Here are some of my top skills as a Flutter developer:
+
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
+  <img alt="RESTful APIs" src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
+  <img alt="Provider" src="https://img.shields.io/badge/-Provider-03A9F4?style=flat-square" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img alt="Agile" src="https://img.shields.io/badge/-Agile-546E7A?style=flat-square" />
+</p>
+
+---
+
 |![](https://github.com/szwedzik/Szwedzik/blob/main/metrics.svg)|![](https://github.com/szwedzik/Szwedzik/blob/main/metrics.additional.svg)
 |---|---|
 
