@@ -25,6 +25,7 @@ I'm a motivated CS developer who loves learning and exploring new technologies. 
   <img alt="RESTful APIs" src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
   <img alt="Provider" src="https://img.shields.io/badge/-Provider-03A9F4?style=flat-square" />
+  <img alt="Flutter Riverpod" src="https://img.shields.io/badge/-Flutter%20Riverpod-03A9F4?style=flat-square" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="Agile" src="https://img.shields.io/badge/-Agile-546E7A?style=flat-square" />
   <img alt="State management" src="https://img.shields.io/badge/-State%20management-1D1D1D?style=flat-square" />
