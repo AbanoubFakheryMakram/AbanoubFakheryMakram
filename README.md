@@ -1,6 +1,11 @@
 <!-- Profile introduction -->
 <img align="left" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+ <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Mobile+Developer;Motivated+CS+Developer" alt="Typing SVG" /></a>
+</p> 
+
 # Hi, I'm Abanoub Fakhry! 👋
 ## Flutter Mobile Developer at Link Development
 
@@ -9,26 +14,6 @@ I'm a motivated CS developer who loves learning and exploring new technologies. 
 - 🌱 I’m currently learning GraphQL and Clean Architecture
 - 💬 Ask me about anything related to mobile development
 - ⚡ Fun fact: I'm a coffee enthusiast and I love trying out new coffee shops.
-
-
-<!-- Coding img -->
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-<h3 align="center">
-  Welcome to Abanoub Fakhry's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
- <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Mobile+Developer;Motivated+CS+Developer" alt="Typing SVG" /></a>
-</p> 
-
-
-- 🏢 I'm a Flutter Mobile Developer at Link Development 
-- 👨‍💻 As a CS developer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with anything related to mobile development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at [https://abanoub-fakhery.jimdosite.com/] to see some of the projects I've worked on.
 
 
