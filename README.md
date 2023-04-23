@@ -22,12 +22,13 @@
 <a href="[https://www.linkedin.com/in/abanoub-fakhry-553a67166/]" target="_blank"><img src="https://img.shields.io/badge/Abanoub%20Fakhry-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=4788F2)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutterlogoColor=4788F2)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=DartlogoColor=4788F2)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=DE33A6)&nbsp;
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-05122A?style=flat&logo=restfull-apis&logoColor=DE33A6)&nbsp;
 
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
