@@ -1,5 +1,5 @@
 ![](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-<h1 align="center">Hi, I'm Szwedzik <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
+<h1 align="center">Hi, I'm Abanoub <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
 <p align="center">
   <a href="https://github.com/szwedzik" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://steamcommunity.com/id/ezi2k/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
@@ -17,13 +17,7 @@
   <h3> Few words about Me</h3>
   <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
   
-- Computer Sience student & Full-Stack developer.
-  
-- Mainly web-developer whos enjoy improving his skills in other languages as well.
-  
-- I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
-  
-- 5+ years of non-commercial expirience in programming.
+I'm a skilled mobile app developer with experience in Flutter, a popular mobile development framework. I'm passionate about building high-quality, user-friendly mobile apps that help solve real-world problems. In my free time, I enjoy tinkering with new technologies and contributing to open source projects
 
 - Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/pl.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (C1 uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/se.svg"> (second language)
 
