@@ -10,8 +10,8 @@
  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Mobile+Developer;Motivated+CS+Developer" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Flutter Mobile Developer at Link Development
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Flutter Mobile Developer at Link Development 
+- 👨‍💻 As a CS developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with anything related to mobile development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at [https://abanoub-fakhery.jimdosite.com/] to see some of the projects I've worked on.
